@@ -1,0 +1,24 @@
+{
+  "name": "superrobot",
+  "version": "1.0.0",
+  "description": "Je to robot!",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ale5ak/superrobot.git"
+  },
+  "author": "Aleš",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ale5ak/superrobot/issues"
+  },
+  "homepage": "https://github.com/ale5ak/superrobot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
